@@ -12,7 +12,7 @@ dset:   # leave blank
       data_dir: data_example/kor/png
       extension: png
       n_gen: 20
-      n_font: 3
+      n_font: 4
       chars: data/kor/val_seen_chars_png.json
       source_path: data_example/kor/png
       source_ext: png

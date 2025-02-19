@@ -28,9 +28,9 @@ trainer:
   fact_const_w: 0.
   # Display
   save: all-last
-  print_freq: 1000
+  print_freq: 50
   val_freq: 10000
-  save_freq: 50000
+  save_freq: 2000
   tb_freq: 100
 
 # Generator
